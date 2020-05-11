@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+docker run -d -p 8585:8080 -e BASE_URL=/swagger -e SWAGGER_JSON=/api/swagger.json -v /Users/linus/Documents/intelliJWorkspace/artemis/src/main/resources/api:/api --name swaggerui swaggerapi/swagger-ui

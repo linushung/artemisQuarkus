@@ -1,0 +1,12 @@
+{
+  "iss": "artemis-MockIdentityManager",
+  "jti": "A124942668",
+  "sub": "linushung@gmail.com",
+  "upn": "linushung@gmail.com",
+  "preferred_username": "linushung",
+  "aud": "angular-realworld",
+  "groups": [
+    "Admin",
+    "User"
+  ]
+}
